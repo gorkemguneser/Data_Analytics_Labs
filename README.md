@@ -11,6 +11,9 @@
 6) Advanced Regex
 7) Lambda Functions
 8) Numpy
+10) MySQL - Creating Databases,tables & seeding & updating
+11) MySQL - Join Functions
+12) MySQL Advanced - Subqueries
 9) Pandas
 10) Import/Export Dataframes
 11) DataFrame Calculations
