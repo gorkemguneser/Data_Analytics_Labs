@@ -16,9 +16,10 @@
 12) MySQL Advanced - Subqueries
 9) Pandas
 10) Import/Export Dataframes
-11) DataFrame Calculations
-12) Data Cleaning
-13) Map-Reduce-Filter
-14) Stack API
-15) API Scavenger
-16) Web Scraping
+11) DataFrame Manipulations
+12) DataFrame Calculations
+13) Data Cleaning
+14) Map-Reduce-Filter
+15) Stack API
+16) API Scavenger
+17) Web Scraping
