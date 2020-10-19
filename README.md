@@ -3,6 +3,9 @@
 #### A collection of labs that I completed while learning Python.
 
 ## Table of contents
+
+### Module 1
+
 1) List Comprehension
 2) String Operations
 3) Dicts-sets-tuples
