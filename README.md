@@ -46,3 +46,12 @@
 15) Object Oriented Programming
 
 ### Module 3
+
+1) Intro to Machine Learning
+2) Linear Regression Analysis
+3) Supervise Learning
+4) Feature Extraction Supervised Learning
+5) Evaluation Supervised Learning
+6) Supervised-Sklearn
+7) Unsupervised Sklearn
+8) Time Series
