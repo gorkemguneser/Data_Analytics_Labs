@@ -5,7 +5,7 @@
 ## Table of contents
 
 ### Module 1
-
+ 
 1) List Comprehension
 2) String Operations
 3) Dicts-sets-tuples
