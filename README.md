@@ -29,7 +29,7 @@
 
 ### Module 2 
 
-1) Pandas deep dive
+1) Pandas deep dive 
 2) Matplotlib-Seaborn
 3) Pivot-Table-Correlation
 4) Plotting Multiple Data Series
