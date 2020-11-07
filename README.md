@@ -20,7 +20,7 @@
 12) MySQL Advanced - Subqueries & Temp tables 
 13) Import/Export Dataframes (from/to .csv,.json,.xls,sql_queries via pymysql & sqlalchemy)
 14) DataFrame Manipulations
-15) DataFrame Calculations
+15) DataFrame Calculations 
 16) Data Cleaning
 17) Map-Reduce-Filter 
 18) Stack API
