@@ -27,7 +27,7 @@
 19) API Scavenger
 20) Web Scraping
 
-### Module 2 
+### Module 2   
 
 1) Pandas deep dive  
 2) Matplotlib-Seaborn
