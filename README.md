@@ -8,7 +8,7 @@
  
 1) List Comprehension
 2) String Operations
-3) Dicts-sets-tuples
+3) Dicts-sets-tuples 
 4) Functions  
 5) Error Handling   
 6) Advanced Regex  
