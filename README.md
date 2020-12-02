@@ -22,7 +22,7 @@
 14) DataFrame Manipulations
 15) DataFrame Calculations  
 16) Data Cleaning 
-17) Map-Reduce-Filter  
+17) Map-Reduce-Filter   
 18) Stack API
 19) API Scavenger
 20) Web Scraping
