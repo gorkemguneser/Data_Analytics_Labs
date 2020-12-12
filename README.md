@@ -4,7 +4,7 @@
 
 ## Table of contents
 
-### Module 1
+### Module 1  
  
 1) List Comprehension
 2) String Operations 
