@@ -12,7 +12,7 @@
 4) Functions    
 5) Error Handling     
 6) Advanced Regex  
-7) Lambda Functions  
+7) Lambda Functions    
 8) Numpy
 9) Pandas 
 10) MySQL - Creating Databases,Tables & Seeding & Updating 
