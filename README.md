@@ -18,7 +18,7 @@
 10) MySQL - Creating Databases,Tables & Seeding & Updating 
 11) MySQL - Joins & Relationships  
 12) MySQL Advanced - Subqueries & Temp tables   
-13) Import/Export Dataframes (from/to .csv,.json,.xls,sql_queries via pymysql & sqlalchemy)
+13) Import/Export Dataframes (from/to .csv,.json,.xls,sql_queries via pymysql & sqlalchemy) 
 14) DataFrame Manipulations 
 15) DataFrame Calculations   
 16) Data Cleaning 
