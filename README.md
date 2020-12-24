@@ -10,7 +10,7 @@
 2) String Operations  
 3) Dicts-sets-tuples 
 4) Functions     
-5) Error Handling      
+5) Error Handling       
 6) Advanced Regex   
 7) Lambda Functions    
 8) Numpy
